@@ -1,8 +1,8 @@
 ## Contributors
 
-- Hala Abdelkader (@Hala-Abdelkader)
-- Hussien Mohamed (@husseinmohamed85851@gmail.com)
-- Hadi Badr (@hadi.m.badr@gmail.com)
+- Hala Abdelkader 
+- Hussien Mohamed 
+- Hadi Badr 
 
 
 
