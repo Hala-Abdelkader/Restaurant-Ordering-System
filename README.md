@@ -1,7 +1,8 @@
 ## Contributors
 
 - Hala Abdelkader
-  [LinkedIn](http://linkedin.com/in/hala-abdelkader)
+
+   [LinkedIn](http://linkedin.com/in/hala-abdelkader)
 - Hussien Mohamed 
 - Hadi Badr 
 
