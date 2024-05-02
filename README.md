@@ -2,7 +2,7 @@
 
 - Hala Abdelkader
 [LinkedIn](http://linkedin.com/in/hala-abdelkader)
-- Hussien Mohamed 
+- Mohamed Hussein 
 - Hadi Badr 
 
 
